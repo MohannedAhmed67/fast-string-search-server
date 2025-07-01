@@ -1,0 +1,4 @@
+linuxpath=./benchmarks/data/10k.txt
+REREAD_ON_QUERY=False
+USE_SSL=False
+PORT=5050

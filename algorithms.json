@@ -1,0 +1,11 @@
+{
+    "Linear Search": "linear_search",
+    "Hash Set Search": "hash_set",
+    "Memory Mapped Search": "memory_mapped_search",
+    "Binary Search": "binary_search",
+    "Shell Grep": "shell_grep",
+    "Trie Search": "trie_search",
+    "KMP Search": "kmp_search",
+    "Boyer-Moore Search": "boyer_moore_search",
+    "Rabin-Karp Search": "rabin_karp_search"
+}

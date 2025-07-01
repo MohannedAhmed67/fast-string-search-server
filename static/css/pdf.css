@@ -1,0 +1,54 @@
+@page {
+    size: A4;
+    margin: 1cm;
+  }
+  
+  body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f3f4f6;
+    color: #111827;
+    font-size: 12px;
+  }
+  
+  h1, h2, h3, h4 {
+    font-weight: 600;
+    margin-top: 1rem;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    page-break-inside: avoid;
+    margin-bottom: 0.5rem;
+  }
+  
+  .collapsible, .content {
+    all: unset;
+  }
+  
+  .algorithm-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+  }
+  
+  .algorithm-table th,
+  .algorithm-table td {
+    border: 1px solid #e5e7eb;
+    padding: 0.75rem;
+    text-align: left;
+  }
+  
+  .algorithm-table th {
+    background-color: #f3f4f6;
+    font-weight: 600;
+  }
+  
+  .algorithm-table tr:nth-child(even) {
+    background-color: #f9fafb;
+  }
+  
+  .algorithm-table tr:hover {
+    background-color: #f3f4f6;
+  }
+  

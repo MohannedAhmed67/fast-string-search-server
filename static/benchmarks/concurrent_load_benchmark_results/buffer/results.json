@@ -1,0 +1,542 @@
+{
+    "10": {
+        "FastSet": {
+            "1": {
+                "average_execution_time": 1.0694430000057764,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 2.700568199998088,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 27.59382203999394,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 224.0730236650029,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                1841619,
+                9678842
+            ]
+        },
+        "Set": {
+            "1": {
+                "average_execution_time": 0.4261540000243258,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 5.948656899965954,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 31.7794351200007,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 163.9808558120031,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                802033,
+                9449299
+            ]
+        },
+        "Trie": {
+            "1": {
+                "average_execution_time": 1.6698389999874053,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 34.60225840000248,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 28.78877866000039,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 187.35078568699902,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                720766,
+                9363851
+            ]
+        },
+        "MultiProcesses_Cache": {
+            "1": {
+                "average_execution_time": 0.9942149999915273,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 17.512960899978225,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 186.11013775999712,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 347.19360931600045,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                728102,
+                9380530
+            ]
+        }
+    },
+    "100": {
+        "FastSet": {
+            "1": {
+                "average_execution_time": 1.180060999899979,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 5.268244299998059,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 49.39814125000453,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 130.28449517599893,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                760575,
+                9285146
+            ]
+        },
+        "Set": {
+            "1": {
+                "average_execution_time": 0.41834199998902477,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 5.799090299990439,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 34.729219710010284,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 289.11335020699994,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                714781,
+                9412043
+            ]
+        },
+        "Trie": {
+            "1": {
+                "average_execution_time": 1.0533449999456934,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 4.142899499993291,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 26.330624609993265,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 132.35125697500013,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                716911,
+                9366627
+            ]
+        },
+        "MultiProcesses_Cache": {
+            "1": {
+                "average_execution_time": 1.808811000046262,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 21.39968249998674,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 155.03655203999529,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 431.2278928019993,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                711391,
+                9450138
+            ]
+        }
+    },
+    "200": {
+        "FastSet": {
+            "1": {
+                "average_execution_time": 1.807190000022274,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 4.080933199986703,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 49.20893309000121,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 230.58734375699876,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                713884,
+                9418132
+            ]
+        },
+        "Set": {
+            "1": {
+                "average_execution_time": 0.4314200000408164,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 4.811808300019038,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 22.371750160003785,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 190.44237361800023,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                721662,
+                9412514
+            ]
+        },
+        "Trie": {
+            "1": {
+                "average_execution_time": 0.5132990000902282,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 1.4863637000189556,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 26.655865839998114,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 186.22482701799854,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                724135,
+                9422466
+            ]
+        },
+        "MultiProcesses_Cache": {
+            "1": {
+                "average_execution_time": 1.7829180000035194,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 12.418224699990787,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 161.92845583000118,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 513.0712310489977,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                712224,
+                9432170
+            ]
+        }
+    },
+    "250": {
+        "FastSet": {
+            "1": {
+                "average_execution_time": 1.3346409999712705,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 6.335493500012035,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 25.012518540000883,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 160.12311771299971,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                726420,
+                9383234
+            ]
+        },
+        "Set": {
+            "1": {
+                "average_execution_time": 2.3720069999626503,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 4.4913677999829815,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 30.18564675999528,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 221.87417107000198,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                719261,
+                9385634
+            ]
+        },
+        "Trie": {
+            "1": {
+                "average_execution_time": 1.8325009999671238,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 5.892709300019305,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 28.182793700000275,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 198.47119000999848,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                716803,
+                9421866
+            ]
+        },
+        "MultiProcesses_Cache": {
+            "1": {
+                "average_execution_time": 1.2824520000549455,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 11.855605599987484,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 196.4682652300054,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 420.18822939600255,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                724882,
+                9406290
+            ]
+        }
+    },
+    "500": {
+        "FastSet": {
+            "1": {
+                "average_execution_time": 1.0150220000468835,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 5.9540728999763814,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 24.653995789997225,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 100.32589728599847,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                751903,
+                9288618
+            ]
+        },
+        "Set": {
+            "1": {
+                "average_execution_time": 0.6379720000495581,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 5.7847275999847625,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 23.571397049996676,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 140.7869729299992,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                713612,
+                9262162
+            ]
+        },
+        "Trie": {
+            "1": {
+                "average_execution_time": 0.2602780000415805,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 3.9429673000199728,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 28.662249250005516,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 155.66663023899915,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                725234,
+                9368626
+            ]
+        },
+        "MultiProcesses_Cache": {
+            "1": {
+                "average_execution_time": 1.5683160000889984,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 15.035303699994529,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 154.80217754001157,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 401.2972131920007,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                732936,
+                9436146
+            ]
+        }
+    },
+    "1000": {
+        "FastSet": {
+            "1": {
+                "average_execution_time": 2.1905370000467883,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 5.814094100026068,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 25.24870708000776,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 161.89784344400195,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                727685,
+                9385802
+            ]
+        },
+        "Set": {
+            "1": {
+                "average_execution_time": 1.7788249999739492,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 4.240233599978183,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 26.162203760002285,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 134.98360482200226,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                721891,
+                9373051
+            ]
+        },
+        "Trie": {
+            "1": {
+                "average_execution_time": 1.1759110000184592,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 2.116988400007358,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 26.462233969996305,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 195.18022781400083,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                718361,
+                9397642
+            ]
+        },
+        "MultiProcesses_Cache": {
+            "1": {
+                "average_execution_time": 1.4850679999653948,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 11.893401399993309,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 149.3009261700047,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 383.052818305999,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                720980,
+                9434322
+            ]
+        }
+    }
+}

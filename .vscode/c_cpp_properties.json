@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include",
+                "/usr/local/include",
+                "/usr/lib/gcc/x86_64-linux-gnu/13/include"
+            ],
+            "defines": [],
+            "configurationProvider": "ms-vscode.makefile-tools",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++20",
+            "compilerPath": "/usr/bin/gcc"
+        }
+    ],
+    "version": 4
+}

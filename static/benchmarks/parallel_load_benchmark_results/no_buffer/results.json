@@ -1,0 +1,1202 @@
+{
+    "10": {
+        "Linear Search": {
+            "1": {
+                "average_execution_time": 2.7971780000370927,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 20.515172999694187,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 14.851871150185616,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 5.258441784011666,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                1619902,
+                4196746
+            ]
+        },
+        "Hash Set Search": {
+            "1": {
+                "average_execution_time": 3.7357170003815554,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 17.829197800165275,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 16.773176470051112,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 11.024215346000346,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                368152,
+                2954307
+            ]
+        },
+        "Memory Mapped Search": {
+            "1": {
+                "average_execution_time": 1.907003001178964,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 13.882582099904539,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 39.83614153996314,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 4.427555859014319,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                294442,
+                2908713
+            ]
+        },
+        "Binary Search": {
+            "1": {
+                "average_execution_time": 4.592326999045326,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 9.55900280005153,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 30.961702870081353,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 9.110868627993113,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                291476,
+                2853901
+            ]
+        },
+        "Shell Grep": {
+            "1": {
+                "average_execution_time": 5.813493000459857,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 61.03125019999425,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 1042.7376200299477,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 13.600682537986359,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                290382,
+                2816715
+            ]
+        },
+        "Trie Search": {
+            "1": {
+                "average_execution_time": 52.65554800098471,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 490.8028160998583,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 1506.1208347399408,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 2238.077859581008,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                363352,
+                2857419
+            ]
+        },
+        "KMP Search": {
+            "1": {
+                "average_execution_time": 18.41046300069138,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 237.39356869973562,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 26.415229350131995,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 201.46473843800223,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                280468,
+                2774300
+            ]
+        },
+        "Boyer-Moore Search": {
+            "1": {
+                "average_execution_time": 9.536138000839856,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 65.83859980019042,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 40.21340979008528,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 11.777731262007364,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                286120,
+                2846636
+            ]
+        },
+        "Rabin-Karp Search": {
+            "1": {
+                "average_execution_time": 3.4637259996088687,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 19.107630199869163,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 23.416247100049077,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 5.3620893730003445,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                292659,
+                2785793
+            ]
+        }
+    },
+    "100": {
+        "Linear Search": {
+            "1": {
+                "average_execution_time": 12.795459999324521,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 85.44811360025051,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 147.23000080011843,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 16.67736331800188,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                286661,
+                2873581
+            ]
+        },
+        "Hash Set Search": {
+            "1": {
+                "average_execution_time": 17.19760000014503,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 234.12782960040204,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 35.27425544007201,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 198.36480731397373,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                288188,
+                2784861
+            ]
+        },
+        "Memory Mapped Search": {
+            "1": {
+                "average_execution_time": 9.295824998844182,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 141.17695830027515,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 92.29692389004413,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 15.920624564983882,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                353709,
+                2942630
+            ]
+        },
+        "Binary Search": {
+            "1": {
+                "average_execution_time": 29.022327000348014,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 396.7451491000247,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 186.38982396016218,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 321.0787058880109,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                290693,
+                2906427
+            ]
+        },
+        "Shell Grep": {
+            "1": {
+                "average_execution_time": 5.166695998923387,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 65.60210019943042,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 325.9397644499768,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 14.209163362040272,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                285702,
+                2848318
+            ]
+        },
+        "Trie Search": {
+            "1": {
+                "average_execution_time": 181.487174000722,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 793.5979320996921,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 3876.1323571000667,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 24056.447021802018,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                315613,
+                2843546
+            ]
+        },
+        "KMP Search": {
+            "1": {
+                "average_execution_time": 88.6119709994091,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 464.88538830017205,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 1032.2333281100327,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 2301.6294791019445,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                281633,
+                2777543
+            ]
+        },
+        "Boyer-Moore Search": {
+            "1": {
+                "average_execution_time": 43.563551998886396,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 378.49915390015667,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 302.02212641002916,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 821.1990359779808,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                292443,
+                2908008
+            ]
+        },
+        "Rabin-Karp Search": {
+            "1": {
+                "average_execution_time": 10.908121999818832,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 204.93264280012227,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 22.747462390034343,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 22.117603119977503,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                381085,
+                2997489
+            ]
+        }
+    },
+    "200": {
+        "Linear Search": {
+            "1": {
+                "average_execution_time": 22.400103000109084,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 273.75869670013344,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 30.37426516004416,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 49.92814795296181,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                285403,
+                2813832
+            ]
+        },
+        "Hash Set Search": {
+            "1": {
+                "average_execution_time": 27.741844000047422,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 322.4382546004563,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 155.79042088995266,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 627.8054315719678,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                289757,
+                2851845
+            ]
+        },
+        "Memory Mapped Search": {
+            "1": {
+                "average_execution_time": 18.692015999477007,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 193.39175969998905,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 231.95375513021645,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 33.2719570669924,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                281871,
+                2778912
+            ]
+        },
+        "Binary Search": {
+            "1": {
+                "average_execution_time": 62.17301399919961,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 465.15000449981017,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 1434.1805710099652,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 1207.1460301200377,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                285768,
+                2872133
+            ]
+        },
+        "Shell Grep": {
+            "1": {
+                "average_execution_time": 7.153153001127066,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 109.19361600026605,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 866.5534766799465,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 15.693496018999213,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                277700,
+                2775093
+            ]
+        },
+        "Trie Search": {
+            "1": {
+                "average_execution_time": 278.5326199991687,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 1029.6708879002836,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 5779.5015444401,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 41321.435075732035,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                387358,
+                3003002
+            ]
+        },
+        "KMP Search": {
+            "1": {
+                "average_execution_time": 183.01844699999492,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 618.3974075998776,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 2318.5154169901048,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 9116.914913059014,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                287023,
+                2783047
+            ]
+        },
+        "Boyer-Moore Search": {
+            "1": {
+                "average_execution_time": 86.62076299879118,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 508.0216422000376,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 884.7106664700732,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 1920.2964262629923,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                310487,
+                2925880
+            ]
+        },
+        "Rabin-Karp Search": {
+            "1": {
+                "average_execution_time": 27.658524999424117,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 328.08504320000793,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 129.87722172010763,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 126.52747832401474,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                285607,
+                2848311
+            ]
+        }
+    },
+    "250": {
+        "Linear Search": {
+            "1": {
+                "average_execution_time": 20.584496998708346,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 272.56183400004375,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 34.76407466998353,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 95.4678508399902,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                282127,
+                2811067
+            ]
+        },
+        "Hash Set Search": {
+            "1": {
+                "average_execution_time": 29.692637999687577,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 344.93317710039264,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 229.31586654995044,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 1411.8466689709696,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                301753,
+                2890468
+            ]
+        },
+        "Memory Mapped Search": {
+            "1": {
+                "average_execution_time": 26.461288000064087,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 287.8305582000394,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 44.57375802008755,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 62.89103213398994,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                315655,
+                2878897
+            ]
+        },
+        "Binary Search": {
+            "1": {
+                "average_execution_time": 75.29384000008577,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 498.5372566996375,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 1621.0743932301557,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 2348.19847601601,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                361354,
+                2858242
+            ]
+        },
+        "Shell Grep": {
+            "1": {
+                "average_execution_time": 6.368995000229916,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 57.20017940020625,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 736.6363529600312,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 16.18587844799731,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                290160,
+                2875660
+            ]
+        },
+        "Trie Search": {
+            "1": {
+                "average_execution_time": 340.0921560005372,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 1141.53771459969,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 6299.111802670052,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 46479.199357046055,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                310955,
+                2808257
+            ]
+        },
+        "KMP Search": {
+            "1": {
+                "average_execution_time": 221.97058399979142,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 724.8445543002163,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 2811.428462219938,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 13563.716565379984,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                351119,
+                2938835
+            ]
+        },
+        "Boyer-Moore Search": {
+            "1": {
+                "average_execution_time": 103.84153599989077,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 504.7746302001542,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 1105.8078937699975,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 2882.10967448998,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                284436,
+                2848994
+            ]
+        },
+        "Rabin-Karp Search": {
+            "1": {
+                "average_execution_time": 33.29660499912279,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 347.47207049986173,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 206.3622293199478,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 116.5030435149929,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                320706,
+                2909543
+            ]
+        }
+    },
+    "500": {
+        "Linear Search": {
+            "1": {
+                "average_execution_time": 35.73597499962489,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 383.22709539988864,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 350.6575157900079,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 214.78274277400666,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                358649,
+                2973030
+            ]
+        },
+        "Hash Set Search": {
+            "1": {
+                "average_execution_time": 49.08586200144782,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 378.1618927998352,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 771.0079077599039,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 648.1712552689881,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                286218,
+                2901945
+            ]
+        },
+        "Memory Mapped Search": {
+            "1": {
+                "average_execution_time": 39.58023800078081,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 362.62568190013553,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 279.51929513985306,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 322.7129845790007,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                283454,
+                2872091
+            ]
+        },
+        "Binary Search": {
+            "1": {
+                "average_execution_time": 143.09213800152065,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 676.2314253004661,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 2731.283121800006,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 10139.985831584994,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                283803,
+                2811920
+            ]
+        },
+        "Shell Grep": {
+            "1": {
+                "average_execution_time": 18.474501001037424,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 104.2610185999365,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 974.9725300199498,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 21.16260930500175,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                283422,
+                2811284
+            ]
+        },
+        "Trie Search": {
+            "1": {
+                "average_execution_time": 612.9120599998714,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 1582.4350069999127,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 9928.755516220099,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 78959.26502075199,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                290606,
+                2906500
+            ]
+        },
+        "KMP Search": {
+            "1": {
+                "average_execution_time": 437.3218189994077,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 1036.2778743998206,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 5317.596480739994,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 34785.92515056197,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                356507,
+                2945481
+            ]
+        },
+        "Boyer-Moore Search": {
+            "1": {
+                "average_execution_time": 185.61195099937322,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 662.9817873996217,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 1976.2010604099673,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 10770.696072575991,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                284438,
+                2811656
+            ]
+        },
+        "Rabin-Karp Search": {
+            "1": {
+                "average_execution_time": 46.723519000806846,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 376.8231805001051,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 526.1899780900421,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 442.7567435659913,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                281412,
+                2811412
+            ]
+        }
+    },
+    "1000": {
+        "Linear Search": {
+            "1": {
+                "average_execution_time": 61.01539700102876,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 434.5577386999139,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 811.0753901801581,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 615.0839319729982,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                290490,
+                2906172
+            ]
+        },
+        "Hash Set Search": {
+            "1": {
+                "average_execution_time": 91.35660800166079,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 537.0945548998861,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 1327.8415028899506,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 4894.520097507014,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                281419,
+                2811191
+            ]
+        },
+        "Memory Mapped Search": {
+            "1": {
+                "average_execution_time": 75.41312600005767,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 466.6849490999084,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 634.7274571600974,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 974.8897170010239,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                281612,
+                2812821
+            ]
+        },
+        "Binary Search": {
+            "1": {
+                "average_execution_time": 299.4595260006463,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 1051.051906700195,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 5392.66354786001,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 33356.64499040692,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                353242,
+                2943072
+            ]
+        },
+        "Shell Grep": {
+            "1": {
+                "average_execution_time": 13.323790999493212,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 166.7374081998787,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 532.1362752100322,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 37.00379607802461,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                284035,
+                2810946
+            ]
+        },
+        "Trie Search": {
+            "1": {
+                "average_execution_time": 1102.239952000673,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 2488.105108599666,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 17304.172169890062,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 150135.3798478839,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                352362,
+                2939398
+            ]
+        },
+        "KMP Search": {
+            "1": {
+                "average_execution_time": 856.4283870000509,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 1615.4460053998264,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 9111.132858359906,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 66172.08603758202,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                289204,
+                2851445
+            ]
+        },
+        "Boyer-Moore Search": {
+            "1": {
+                "average_execution_time": 370.69278200033295,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 885.1226483002392,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 3785.310966060043,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 25861.454034734987,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                282593,
+                2812075
+            ]
+        },
+        "Rabin-Karp Search": {
+            "1": {
+                "average_execution_time": 97.59434499937925,
+                "success_count": 1
+            },
+            "10": {
+                "average_execution_time": 546.0424783002964,
+                "success_count": 10
+            },
+            "100": {
+                "average_execution_time": 1250.695726629965,
+                "success_count": 100
+            },
+            "1000": {
+                "average_execution_time": 1965.7920753379854,
+                "success_count": 1000
+            },
+            "memory_usage": [
+                288901,
+                2904596
+            ]
+        }
+    }
+}
